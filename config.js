@@ -1,21 +1,21 @@
 //可变化的
 const siteConfig = {
-    pageTitle: "无事躺平",
-    logoText: "无事躺平",
-    welcomeMessage: "欲望",
+    pageTitle: "",
+    logoText: "简单记录，简单生活",
+    welcomeMessage: "try your best",
     quote: "Endless desire can never bring satisfaction, but only distress.",
     quoteAuthor: "— Epicurus",
     navLinks: [
-        { text: "博客", url: "https://likey.us.kg/" },
-        { text: "资源站", url: "https://v0v.us.kg/" },
-        { text: "音乐", url: "https://kfcvme50.fyi/music.html" },
-        { text: "视频与文案", url: "https://kfcvme50.fyi/" },
-        { text: "图床", url: "https://imgbed.kfcvme50.fyi/" }
+        { text: "博客", url: "https://blog.685586.xyz/" },
+        { text: "面板", url: "https://panel.zlcom.pp.ua/" },
+        { text: "热榜", url: "https://hot.imsyy.top/" },
+        { text: "导航", url: "https://navi.yzgo.nyc.mn/" },
+        { text: "图床", url: "https://tggraph1.zlcom.pp.ua/" }
     ],
     footerLinks: [
         { text: "YouTube", url: "https://www.youtube.com" },
         { text: "Twitter", url: "https://www.twitter.com" },
-        { text: "Email", url: "mailto:ll01@anche.no" }
+        { text: "Email", url: "mailto:yzgo@stronzi.org" }
     ]
 };
 
