@@ -2,7 +2,7 @@
 const siteConfig = {
     pageTitle: "",
     logoText: "简单记录，简单生活",
-    welcomeMessage: "try your best",
+    welcomeMessage: "Try your best",
     quote: "Endless desire can never bring satisfaction, but only distress.",
     quoteAuthor: "— Epicurus",
     navLinks: [
@@ -15,7 +15,8 @@ const siteConfig = {
     footerLinks: [
         { text: "YouTube", url: "https://www.youtube.com" },
         { text: "Twitter", url: "https://www.twitter.com" },
-        { text: "Email", url: "mailto:yzgo@stronzi.org" }
+        { text: "Email", url: "mailto:yzgo@stronzi.org" },
+        { text: "Github", url: "https://github.com/yzgolden86" }
     ]
 };
 
